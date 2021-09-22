@@ -15,4 +15,4 @@
 - 🤔 I’m looking for help with ...
 -->
 
-[![Victor's github stats](https://github-readme-stats.vercel.app/api?username=vic778&show_icons=true&theme=radical)](https://github.com/vic778/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vic7788&show_icons=true&theme=radical&layout=compact)](https://github.com/vic778/github-readme-stats)
+[![Victor's github stats](https://github-readme-stats.vercel.app/api?username=vic778&show_icons=true&theme=radical)](https://github.com/vic778/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vic778&show_icons=true&theme=radical&layout=compact)](https://github.com/vic778/github-readme-stats)
