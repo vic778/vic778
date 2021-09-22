@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project
 - I'm open to new job opportunities
 - 💬 Ask me about Web Development
-- 📫 How to reach me: [Twitter](https://twitter.com/VictoirBarh), [Linkedin](www.linkedin.com/in/victor-emmanuel-barh)
+- 📫 How to reach me: [Twitter](https://twitter.com/VictoirBarh), [Linkedin](www.linkedin.com/in/victor)
 - 😄 Pronouns: He/Him
 - ⚡ If it looks difficult, change your perspective
 
