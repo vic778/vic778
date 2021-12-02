@@ -15,7 +15,41 @@
 <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://redux-observable.js.org/logo/logo-small.gif" width="100" height="100"><img src="https://c.tenor.com/E63zF4sdKuMAAAAC/ruby-rubies.gif" width="100" height="90"><img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png" width="100"><img src="https://thumbs.gfycat.com/InsistentSardonicAppaloosa-size_restricted.gif" width="100"><img src="https://media0.giphy.com/media/KAq5w47R9rmTuvWOWa/200.webp?cid=ecf05e47rev8zp6prwz9dpw3hb07sorl7vgge90tyt71zf5f&rid=200.webp&ct=g" width="100"><img src="https://iconape.com/wp-content/png_logo_vector/rspec-logo.png" height="90">
 
 ## Skills:
-<img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="100" height="90"><img src="https://4uxdevelopers.files.wordpress.com/2013/06/css3logo.png" width="90"><img src="https://s3.amazonaws.com/viking_education/web_development/web_app_eng/sass_logo_animation.gif" width="100" height="100"><img src="https://miro.medium.com/max/512/1*6fzxZyDPD_8RRsmHpQr-vw.gif" width="100" height="90"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="150" height="100"><img src="https://i1.wp.com/www.blockprojekt.de/wp-content/uploads/webpack-logo.gif?resize=600%2C419" width="150" height="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" height="90"><img src="https://upload.wikimedia.org/wikipedia/fr/c/cf/Zsh-logo.gif" width="100" height="90"><img src="https://cdn.dribbble.com/users/413493/screenshots/3420342/c_trio_dribbble_animation_101.gif" height="90"><img src="https://i.pinimg.com/originals/5c/32/fd/5c32fd59f59c761f549d6e693a47c609.gif" height="90"><img src="http://gif.informatiquegifs.com/gifs/java/4.gif" width="80" height="90"><img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" height="100"><img src="https://seeklogo.com/images/N/npm-logo-01B8642EDD-seeklogo.com.png" height="90"><img src="https://i0.wp.com/blog.fontawesome.com/wp-content/uploads/2020/08/flag-wave.gif?resize=720%2C309&ssl=1" height="110"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/JSON_logo.gif" height="90"><img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-svg-vector.svg" height="90">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_Tech & Tools Preference_**
+
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white">
+<img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white">
+<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/Git-GitBash-black?style=flat&logo=git&logoColor=white">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+<img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=Webpack&logoColor=white">
+<img src="https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white">
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
+<img src="https://aleen42.github.io/badges/src/photoshop.svg">
+<img src="https://aleen42.github.io/badges/src/illustrator.svg">
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white">
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-666666?style=flat&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white">
 
 <!--
 **vic778/vic778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
