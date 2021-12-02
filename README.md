@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ If it looks difficult, change your perspective
 
-[![Twitter Badge](https://img.shields.io/badge/-@rickymormor-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rickymormor)](https://twitter.com/VictoirBarh) [![Linkedin Badge](https://img.shields.io/badge/-rickymormor-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-emmanuel-barh-a93900200/) [![Mail Badge](https://img.shields.io/badge/-@rickymormor-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/rickymormor) [![Mail Badge](https://img.shields.io/badge/-rickymormor1-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:victoiremmanuelbarh@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@rickymormor-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/VictoirBarh)](https://twitter.com/VictoirBarh) [![Linkedin Badge](https://img.shields.io/badge/-rickymormor-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-emmanuel-barh-a93900200/) [![Mail Badge](https://img.shields.io/badge/-@rickymormor-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/rickymormor) [![Mail Badge](https://img.shields.io/badge/-rickymormor1-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:victoiremmanuelbarh@gmail.com)
 
 - :email: victoiremmanuelbarh@gmail.com
 
