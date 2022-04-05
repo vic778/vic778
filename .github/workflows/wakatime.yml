@@ -14,6 +14,6 @@ jobs:
     steps:
       - uses: athul/vic778@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: bc3bf636-319a-4782-a79c-f10db0a44700
           USERNAME: descholar
           SHOW_TITLE: true
