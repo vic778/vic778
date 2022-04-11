@@ -65,6 +65,6 @@
 -->
 
 [![Victor's github stats](https://github-readme-stats.vercel.app/api?username=vic778&show_icons=true&theme=radical)](https://github.com/vic778/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vic778&show_icons=true&theme=radical&layout=compact)](https://github.com/vic778/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vic778@master)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vic778)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=vic778)
