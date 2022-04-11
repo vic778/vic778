@@ -56,7 +56,7 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-666666?style=flat&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white">
-![](https://komarev.com/ghpvc/?username=vic778)
+
 
 <!--
 **vic778/vic778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -65,3 +65,5 @@
 -->
 
 [![Victor's github stats](https://github-readme-stats.vercel.app/api?username=vic778&show_icons=true&theme=radical)](https://github.com/vic778/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vic778&show_icons=true&theme=radical&layout=compact)](https://github.com/vic778/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=vic778)
