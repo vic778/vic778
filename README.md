@@ -17,14 +17,6 @@ I'm Victor, a Full-Stack Software developer who loves creating useful products. 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_Tech & Tools Preference_**
 
 
-
-
-<!--
-**vic778/vic778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🤔 I’m looking for help with ...
--->
-
 [![Victor's github stats](https://github-readme-stats.vercel.app/api?username=vic778&show_icons=true&theme=radical)](https://github.com/vic778/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vic778&show_icons=true&theme=radical&layout=compact)](https://github.com/vic778/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@vic778)](https://github.com/anuraghazra/github-readme-stats)
 
