@@ -14,7 +14,7 @@ I'm Victor, a Full-Stack Software developer who loves creating useful products. 
 
 
 ## Skills:
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_Tech & Tools Preference_**
+
 
 
 [![Victor's github stats](https://github-readme-stats.vercel.app/api?username=vic778&show_icons=true&theme=radical)](https://github.com/vic778/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vic778&show_icons=true&theme=radical&layout=compact)](https://github.com/vic778/github-readme-stats)
