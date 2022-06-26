@@ -9,9 +9,9 @@ Kind Regards
 
 
 Susan Falola
-CEO / Creative Director of JUUBIX LTD
-​Registration No: 11733140
-e: info@juubix.co.uk
+CEO / Creative Director of JUUBIX LTD </br>
+​Registration No: 11733140 </br>
+e: info@juubix.co.uk</br>
 www.juubix.co.ukFacebook icon LinkedIn icon Twitter icon
 JUUBIX reserves the rights to update the details, specifications and listed activities to advise the current position and status of JUUBIX implementation. The content and conceptualisation of said content are reserved copyrights of JUUBIX LTD and further information can be provided on initial engagement of interested parties. The future view is to hold an STO, with the primary focus at present being solely to provide a multidisciplinary cloud based solution.
 
