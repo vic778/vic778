@@ -2,8 +2,14 @@
 
 
    I am writing this as a recommendation. I am Susan Falola, Founder of the JUUBIX.
-I had the pleasure of working with Victor in the company, he has shown good skills in teamwork, backend coding, task management, leadership,
-problem-solving, and communication. Victor works well in a team setting, and listens and contributes to all tasks. I would recommend him for a back-end ruby on rails role and peer-to-peer implementation. I truly can't wait to see what the future of
+I had the pleasure of working with Victor in the company, he has shown good skills in :
+-  teamwork, backend 
+-  coding, 
+-  task management, 
+-  leadership,
+problem-solving, and communication. <br>
+Victor works well in a team setting, and listens and contributes to all tasks. 
+I would recommend him for a back-end ruby on rails role and peer-to-peer implementation. I truly can't wait to see what the future of
 this candidate looks like, but I am sure that he will exceed my expectations. If you need any further information please do not hesitate
 to contact me.
 
