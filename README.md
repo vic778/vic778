@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 
-   I am writing this as a recommendation. I am Susan Falola, Founder and Facilitator of the Global TechSprint Leadership Program 2021. I had the pleasure of Victoire participating on the program, he has shown good skills in teamwork, backend coding, task management, leadership, problem solving and communication. Victoire works well in a team setting, and listens and contributes to all tasks. I would recommend him for a back-end ruby on rails role and peer to peer implementation. I truly cant wait to see what the future of this candidate looks like, but I am sure that he will exceed my expectations. If you need any further information please do not hesitate to contact me.
+   I am writing this as a recommendation. I am Susan Falola, Founder of the JUUBIX.
+I had the pleasure of working with Victor in the company, he has shown good skills in teamwork, backend coding, task management, leadership,
+problem-solving, and communication. Victor works well in a team setting, and listens and contributes to all tasks. I would recommend him for a back-end ruby on rails role and peer-to-peer implementation. I truly can't wait to see what the future of
+this candidate looks like, but I am sure that he will exceed my expectations. If you need any further information please do not hesitate
+to contact me.
 
 
 
