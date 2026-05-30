@@ -6,7 +6,7 @@
   <samp>
 I'm Victor, I am a software developer with a passion for problem-solving. My favorite is the Backend side of development but I'm doing the full-stack as well.
 I'm currently learning DevOps. I am coding to bring or solve the real problems in the society
-     <br><br><a href="https://twitter.com/VictoirBarh">Twitter</a> || <a href="https://www.linkedin.com/in/victor-barh/">LinkedIn</a>  
+     <br><br><a href="https://twitter.com/VictoirBarh">Twitter</a> || <a href="https://www.linkedin.com/in/victor-barh/">LinkedIn</a>  || <a href="https://flowcv.com/resume/inoh13n0ls">my Resume</a>
   </samp>
 </p>
 
